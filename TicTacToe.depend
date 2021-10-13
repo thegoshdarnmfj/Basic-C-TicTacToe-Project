@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1630725043 source:c:\users\zot\desktop\falsehoods\tictactoe\main.cpp
+	<iostream>
+	<vector>
+	<boardSetUp.h>
+
+1630807564 c:\users\zot\desktop\falsehoods\tictactoe\include\boardsetup.h
+	<vector>
+	<string>
+	<iostream>
+
+1630807642 source:c:\users\zot\desktop\falsehoods\tictactoe\src\boardsetup.cpp
+	"boardSetUp.h"
+
